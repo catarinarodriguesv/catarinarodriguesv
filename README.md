@@ -1,12 +1,14 @@
 <h1 align="center">Hi, I'm Catarina! 👋 </h1>
-<h2 align="center">I'm a full-stack explorer, always diving into new code adventures and loving every <i>byte</i>!</h2>
+<h2 align="center">I'm a full-stack explorer, always diving into new code adventures!</h2>
 
 - 🎓 Graduated with a bachelor’s and master’s from Instituto Superior Técnico in 2022
 - 🔍 Diving deep into cybersecurity and coding adventures
 - 💬 Reach out and let’s connect!
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5022919" style='border:none;'></iframe>
+
 <div align = "center"style="display: inline_block">
-  <h1>Technologies I'm familiar with or currently mastering</h1>
+  <h1>Technologies I'm familiar with or currently learning</h1>
   <h3>Programming Languages and frameworks:</h3>
   <img align="center" alt= "Java" height="48" width="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png">
   <img align="center" alt= "Python" height="48" width="48" src="https://img.icons8.com/color/48/python--v1.png">

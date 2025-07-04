@@ -5,8 +5,6 @@
 - 🔍 Diving deep into cybersecurity and coding adventures
 - 💬 Reach out and let’s connect!
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5022919" style='border:none;'></iframe>
-
 <div align = "center"style="display: inline_block">
   <h1>Technologies I'm familiar with or currently learning</h1>
   <h3>Programming Languages and frameworks:</h3>

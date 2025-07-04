@@ -5,7 +5,6 @@
 - 🔍 Diving deep into cybersecurity and coding adventures
 - 💬 Reach out and let’s connect!
 
-[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile/image?userPublicId=5022919)](https://tryhackme.com/p/catn1nja)
 
 <div align = "center"style="display: inline_block">
   <h1>Technologies I'm familiar with or currently learning</h1>
